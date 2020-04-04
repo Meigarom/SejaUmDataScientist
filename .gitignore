@@ -8,6 +8,7 @@ __pycache__/
 
 # Data extensions
 *.csv
+*.db
 
 # Distribution / packaging
 .Python
