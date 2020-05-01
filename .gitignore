@@ -9,6 +9,7 @@ __pycache__/
 # Data extensions
 *.csv
 *.db
+*.pkl
 
 # Distribution / packaging
 .Python
